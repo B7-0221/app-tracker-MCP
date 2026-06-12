@@ -1,0 +1,12 @@
+{
+  "name": "app-tracker-mcp",
+  "version": "1.0.0",
+  "description": "MCP server，让Claude能查询湘湘当前打开的App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
